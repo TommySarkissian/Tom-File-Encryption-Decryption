@@ -20,13 +20,13 @@ This project provides functionality to securely encrypt and decrypt `.tom` files
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/tom-file-encryption-decryption.git
+    git clone https://github.com/tommysarkissian/Tom-File-Encryption-Decryption.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd tom-file-encryption-decryption
+    cd Tom-File-Encryption-Decryption
     ```
 
 4. Install dependencies:
