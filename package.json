@@ -1,0 +1,19 @@
+{
+  "name": "tom-file-encryption-decryption",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt .tom files using AES-256-CBC and RSA. Transforms Base64 encoding into emoji for unique obfuscation, ensuring secure data handling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "generate-keys": "node generate_keys.js"
+  },
+  "keywords": ["encryption", "decryption", ".tom files", "AES-256-CBC", "RSA", "emoji encoding", "data security"],
+
+  "author": "Tommy Sarkissian",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2"
+  }
+}
