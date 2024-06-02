@@ -1,6 +1,6 @@
 # .tom File Encryption and Decryption
 
-This project provides functionality to securely encrypt and decrypt `.tom` files using AES-256-CBC and RSA encryption. It transforms Base64 encoding into emoji for unique obfuscation, ensuring secure data handling.
+This project provides functionality to encrypt securely and decrypt `.tom` files using AES-256-CBC and RSA encryption. It transforms Base64 encoding into emojis for unique obfuscation, ensuring secure data handling.
 
 ## Features
 
@@ -41,7 +41,7 @@ This project provides functionality to securely encrypt and decrypt `.tom` files
     npm run generate-keys
     ```
 
-    Make sure to modify the passphrase in both `generate_keys.js` and `index.js`.
+    Modify the passphrase in both `generate_keys.js` and `index.js`.
 
 ## Usage
 
