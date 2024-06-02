@@ -4,11 +4,11 @@ This project provides functionality to securely encrypt and decrypt `.tom` files
 
 ## Features
 
-- Encrypt text into a `.tom` file
-- Decrypt `.tom` files back to text
-- Uses AES-256-CBC for content encryption
-- Uses RSA for key encryption
-- Base64 to emoji transformation for additional obfuscation
+- **Encrypt Text**: Encrypt text into a `.tom` file.
+- **Decrypt Text**: Decrypt `.tom` files back to text.
+- **AES-256-CBC Encryption**: Uses AES-256-CBC for content encryption.
+- **RSA Encryption**: Uses RSA for key encryption.
+- **Base64 to Emoji Transformation**: Transforms Base64 encoding to emoji for additional obfuscation.
 
 ## Screenshot
 
@@ -47,7 +47,12 @@ This project provides functionality to securely encrypt and decrypt `.tom` files
 
 ### Production
 
-To run the application in production:
+To run the application in production mode:
 
 ```bash
 npm start
+```
+
+## Contributing
+
+We welcome contributions to improve the `.tom File Encryption and Decryption` project! Please fork the repository and submit pull requests.
