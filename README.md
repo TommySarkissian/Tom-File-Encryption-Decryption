@@ -12,7 +12,9 @@ This project provides functionality to encrypt securely and decrypt `.tom` files
 
 ## Screenshot
 
-![GUI](https://i.imgur.com/DF0KDbg.png)
+<img src="https://i.imgur.com/DF0KDbg.png" alt="GUI" width="100%">
+<img src="https://i.imgur.com/Xu10Nua.png" alt=".tom Contents" width="100%">
+
 
 ## Installation
 
